@@ -1,1 +1,1 @@
-stulzq/azure-openai-proxy
+chenzhaoyu94/chatgpt-web
