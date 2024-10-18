@@ -1,2 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
-docker.elastic.co/kibana/kibana:8.10.2
+fluentd:v1.17-debian-1
