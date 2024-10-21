@@ -1,1 +1,1 @@
-fluentd:v1.17-debian-1
+elastic/filebeat:8.10.2
