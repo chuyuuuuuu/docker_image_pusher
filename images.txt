@@ -1,1 +1,1 @@
-makedie/fastapi-dls
+python:3.11-slim
