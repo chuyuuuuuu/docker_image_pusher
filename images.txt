@@ -1,5 +1,1 @@
-alpine
-pgvector/pgvector:pg16
-minio/minio
-casbin/casdoor
-lobehub/lobe-chat-database
+node:20-alpine
