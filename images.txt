@@ -1,1 +1,1 @@
-discourse/base:2.0.20240825-0027
+python:3.11.10
